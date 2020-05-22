@@ -1,0 +1,8 @@
+Synthetic data
+W:  [0.10780951 0.03815818]
+B:  0.00714285714285692
+perceptron train acc: 0.988571, test acc: 0.986667
+W:  [6.04876002 0.60204075]
+B:  -0.22477442272851167
+logistic train acc: 0.994286, test acc: 1.000000
+
